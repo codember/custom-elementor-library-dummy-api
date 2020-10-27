@@ -31,6 +31,22 @@
                 "trend_index": "0",
                 "has_page_settings": "0"
             }
+          
+          {
+                "id": "2",
+                "title": "Dugdugi UI",
+                "thumbnail": "https://wpdeveloper.net/wp-content/uploads/2019/05/How-to-Include-Elementor-Template-using-a-Shortcode.png",
+                "tmpl_created": "1475067229",
+                "author": "Ayan",
+                "url": "",
+                "type": "page",
+                "subtype": "page",
+                "tags": "[]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            }
         ]
     }
 }
